@@ -1,8 +1,7 @@
 # steward-little
 ​A Global Digital Nervous System for Generative Agriculture
 ​The Steward's Canvas
-​A Global Digital Nervous System for Generative Agriculture
-​1. Vision
+​​1. Vision
 ​The Steward's Canvas is an open-source, geo-spatial project management platform designed to treat the Earth as a living system. It bridges the gap between high-level regenerative design and the daily, granular stewardship required to cultivate land across generations. We are moving agriculture away from industrial extraction and toward an anti-fragile, guild-based stewardship model.
 ​2. The Core Problem
 ​Knowledge Isolation: Farmers are reinventing the wheel in isolation, lacking a shared, biome-specific knowledge base.
@@ -30,3 +29,4 @@
 ​Contribute ideas: Tell us what "pain points" in your farm management could be solved by this digital nervous system.
 ​Connect: We are looking to collaborate with open-source agricultural projects like farmOS, OpenTEAM, and FarmHack.
 ​“The best fertilizer is the gardener's shadow.”
+turns out all landscaping ads are sub par, and it had me thinking about how the map builders from games like AOE and the sims were head and shoulders above that, then i realized there was far more possibility than just a better design program.
