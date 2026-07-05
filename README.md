@@ -29,4 +29,4 @@
 ​Contribute ideas: Tell us what "pain points" in your farm management could be solved by this digital nervous system.
 ​Connect: We are looking to collaborate with open-source agricultural projects like farmOS, OpenTEAM, and FarmHack.
 ​“The best fertilizer is the gardener's shadow.”
-turns out all landscaping ads are sub par, and it had me thinking about how the map builders from games like AOE and the sims were head and shoulders above that, then i realized there was far more possibility than just a better design program.
+turns out all landscaping apps are sub par, and it had me thinking about how the map builders from games like AOE and the sims were head and shoulders above that, then i realized there was far more possibility than just a better design program.
